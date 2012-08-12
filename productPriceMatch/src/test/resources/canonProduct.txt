@@ -1,0 +1,1 @@
+{"product_name":"Canon-ELPH-300HS","manufacturer":"Canon","model":"300 HS","family":"ELPH","announced-date":1297036800000}
